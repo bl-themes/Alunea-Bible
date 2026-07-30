@@ -1,0 +1,6 @@
+{
+  "name": "Alunea Bible",
+  "description": "A modern, lightweight, and elegant Bible Reader application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

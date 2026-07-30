@@ -1,0 +1,30 @@
+{
+  "bookId": "GEN",
+  "bookName": "Kejadian",
+  "translation": "tb",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        { "verse": 1, "text": "Pada mulanya Allah menciptakan langit dan bumi." },
+        { "verse": 2, "text": "Bumi belum berbentuk dan kosong; gelap gulita menutupi samudera raya, dan Roh Allah melayang-layang di atas permukaan air." },
+        { "verse": 3, "text": "Berfirmanlah Allah: \"Jadilah terang.\" Lalu terang itu jadi." },
+        { "verse": 4, "text": "Allah melihat bahwa terang itu baik, lalu dipisahkan-Nya terang itu dari kegelapan." },
+        { "verse": 5, "text": "Dan Allah menamai terang itu siang, dan kegelapan itu dinamai-Nya malam. Jadilah petang dan jadilah pagi, itulah hari pertama." },
+        { "verse": 6, "text": "Berfirmanlah Allah: \"Jadilah cakrawala di tengah-tengah air untuk memisahkan air dari air.\"" },
+        { "verse": 7, "text": "Maka Allah menjadikan cakrawala dan Ia memisahkan air yang ada di bawah cakrawala itu dari air yang ada di atasnya. Dan jadilah demikian." },
+        { "verse": 8, "text": "Lalu Allah menamai cakrawala itu langit. Jadilah petang dan jadilah pagi, itulah hari kedua." },
+        { "verse": 9, "text": "Berfirmanlah Allah: \"Hendaklah air di bawah langit berkumpul pada satu tempat, sehingga kelihatan yang kering.\" Dan jadilah demikian." },
+        { "verse": 10, "text": "Lalu Allah menamai yang kering itu darat, dan kumpulan air itu dinamai-Nya laut. Allah melihat bahwa semuanya itu baik." }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        { "verse": 1, "text": "Demikianlah diselesaikan langit dan bumi dan segala isinya." },
+        { "verse": 2, "text": "Ketika Allah pada hari ketujuh telah menyelesaikan pekerjaan yang dibuat-Nya itu, berhentilah Ia pada hari ketujuh dari segala pekerjaan yang telah dibuat-Nya itu." },
+        { "verse": 3, "text": "Lalu Allah memberkati hari ketujuh itu dan menguduskannya, karena pada hari itulah Ia berhenti dari segala pekerjaan penciptaan yang telah dibuat-Nya itu." }
+      ]
+    }
+  ]
+}

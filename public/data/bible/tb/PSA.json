@@ -1,0 +1,25 @@
+{
+  "bookId": "PSA",
+  "bookName": "Mazmur",
+  "translation": "tb",
+  "chapters": [
+    {
+      "chapter": 23,
+      "verses": [
+        { "verse": 1, "text": "TUHAN adalah gembalaku, takkan kekurangan aku." },
+        { "verse": 2, "text": "Ia membaringkan aku di padang yang berrumput hijau, Ia membimbing aku ke air yang tenang;" },
+        { "verse": 3, "text": "Ia menyegarkan jiwaku. Ia menuntun aku di jalan yang benar oleh karena nama-Nya." },
+        { "verse": 4, "text": "Sekalipun aku berjalan dalam lembah kekelaman, aku tidak takut bahaya, sebab Engkau besertaku; gada-Mu dan tongkat-Mu, itulah yang menghibur aku." },
+        { "verse": 5, "text": "Engkau menyediakan hidangan bagiku, di hadapan lawanku; Engkau mengurapi kepala dengan minyak; pialaku penuh melimpah." },
+        { "verse": 6, "text": "Kebajikan dan kemurahan semata-mata akan mengikuti aku, seumur hidupku; dan aku akan diam dalam rumah TUHAN sepanjang masa." }
+      ]
+    },
+    {
+      "chapter": 119,
+      "verses": [
+        { "verse": 105, "text": "Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku." },
+        { "verse": 106, "text": "Aku telah bersumpah dan akan menepatinya, untuk berpegang pada hukum-hukum-Mu yang adil." }
+      ]
+    }
+  ]
+}

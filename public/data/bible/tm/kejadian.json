@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "name": "Kejadian",
+    "short_name": "Kej",
+    "slug": "kejadian",
+    "testament": "OT",
+    "chapters": {
+        "1": {
+            "1": "Bahwa pada mula pertama dijadikan Allah akan langit dan bumi.",
+            "2": "Maka bumi itu lagi campur baur adanya, yaitu suatu hal yang ketutupan kelam kabut; maka Roh Allah berlayang-layang di atas muka air itu.",
+            "3": "Maka firman Allah: Hendaklah ada terang. Lalu terangpun jadilah.",
+            "4": "Maka dilihat Allah akan terang itu baiklah adanya, lalu diceraikan Allah terang itu dengan gelap.",
+            "5": "Maka dinamai Allah akan terang itu siang dan akan gelap itu malam. Setelah petang dan pagi, maka itulah hari yang pertama."
+        },
+        "2": {
+            "1": "Demikianlah sudah dijadikan langit dan bumi serta dengan segala isinya.",
+            "2": "Maka pada hari yang ketujuh setelah sudah disampaikan Allah pekerjaan-Nya, yang telah diperbuat-Nya itu, maka berhentilah Ia pada hari yang ketujuh itu dari pada pekerjaan-Nya, yang telah diperbuat-Nya."
+        }
+    }
+}

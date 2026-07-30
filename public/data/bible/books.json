@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "name": "Kejadian",
+        "short_name": "Kej",
+        "slug": "kejadian",
+        "testament": "OT",
+        "chapters": 50,
+        "file": "kejadian.json"
+    },
+    {
+        "id": 2,
+        "name": "Keluaran",
+        "short_name": "Kel",
+        "slug": "keluaran",
+        "testament": "OT",
+        "chapters": 40,
+        "file": "keluaran.json"
+    },
+    {
+        "id": 3,
+        "name": "Imamat",
+        "short_name": "Im",
+        "slug": "imamat",
+        "testament": "OT",
+        "chapters": 27,
+        "file": "imamat.json"
+    },
+    {
+        "id": 4,
+        "name": "Bilangan",
+        "short_name": "Bil",
+        "slug": "bilangan",
+        "testament": "OT",
+        "chapters": 36,
+        "file": "bilangan.json"
+    },
+    {
+        "id": 5,
+        "name": "Ulangan",
+        "short_name": "Ul",
+        "slug": "ulangan",
+        "testament": "OT",
+        "chapters": 34,
+        "file": "ulangan.json"
+    },
+    {
+        "id": 6,
+        "name": "Yosua",
+        "short_name": "Yos",
+        "slug": "yosua",
+        "testament": "OT",
+        "chapters": 24,
+        "file": "yosua.json"
+    },
+    {
+        "id": 7,
+        "name": "Hakim-hakim",
+        "short_name": "Hak",
+        "slug": "hakim-hakim",
+        "testament": "OT",
+        "chapters": 21,
+        "file": "hakim-hakim.json"
+    },
+    {
+        "id": 8,
+        "name": "Rut",
+        "short_name": "Rut",
+        "slug": "rut",
+        "testament": "OT",
+        "chapters": 4,
+        "file": "rut.json"
+    },
+    {
+        "id": 9,
+        "name": "1 Samuel",
+        "short_name": "1Sam",
+        "slug": "1-samuel",
+        "testament": "OT",
+        "chapters": 31,
+        "file": "1-samuel.json"
+    },
+    {
+        "id": 10,
+        "name": "2 Samuel",
+        "short_name": "2Sam",
+        "slug": "2-samuel",
+        "testament": "OT",
+        "chapters": 24,
+        "file": "2-samuel.json"
+    },
+    {
+        "id": 11,
+        "name": "1 Raja-raja",
+        "short_name": "1Raj",
+        "slug": "1-raja-raja",
+        "testament": "OT",
+        "chapters": 22,
+        "file": "1-raja-raja.json"
+    },
+    {
+        "id": 12,
+        "name": "2 Raja-raja",
+        "short_name": "2Raj",
+        "slug": "2-raja-raja",
+        "testament": "OT",
+        "chapters": 25,
+        "file": "2-raja-raja.json"
+    },
+    {
+        "id": 13,
+        "name": "1 Tawarikh",
+        "short_name": "1Taw",
+        "slug": "1-tawarikh",
+        "testament": "OT",
+        "chapters": 29,
+        "file": "1-tawarikh.json"
+    },
+    {
+        "id": 14,
+        "name": "2 Tawarikh",
+        "short_name": "2Taw",
+        "slug": "2-tawarikh",
+        "testament": "OT",
+        "chapters": 36,
+        "file": "2-tawarikh.json"
+    },
+    {
+        "id": 15,
+        "name": "Ezra",
+        "short_name": "Ezr",
+        "slug": "ezra",
+        "testament": "OT",
+        "chapters": 10,
+        "file": "ezra.json"
+    },
+    {
+        "id": 16,
+        "name": "Nehemia",
+        "short_name": "Neh",
+        "slug": "nehemia",
+        "testament": "OT",
+        "chapters": 13,
+        "file": "nehemia.json"
+    },
+    {
+        "id": 17,
+        "name": "Ester",
+        "short_name": "Est",
+        "slug": "ester",
+        "testament": "OT",
+        "chapters": 10,
+        "file": "ester.json"
+    },
+    {
+        "id": 18,
+        "name": "Ayub",
+        "short_name": "Ayb",
+        "slug": "ayub",
+        "testament": "OT",
+        "chapters": 42,
+        "file": "ayub.json"
+    },
+    {
+        "id": 19,
+        "name": "Mazmur",
+        "short_name": "Mzm",
+        "slug": "mazmur",
+        "testament": "OT",
+        "chapters": 150,
+        "file": "mazmur.json"
+    },
+    {
+        "id": 20,
+        "name": "Amsal",
+        "short_name": "Ams",
+        "slug": "amsal",
+        "testament": "OT",
+        "chapters": 31,
+        "file": "amsal.json"
+    },
+    {
+        "id": 21,
+        "name": "Pengkhotbah",
+        "short_name": "Pkh",
+        "slug": "pengkhotbah",
+        "testament": "OT",
+        "chapters": 12,
+        "file": "pengkhotbah.json"
+    },
+    {
+        "id": 22,
+        "name": "Kidung Agung",
+        "short_name": "Kid",
+        "slug": "kidung-agung",
+        "testament": "OT",
+        "chapters": 8,
+        "file": "kidung-agung.json"
+    },
+    {
+        "id": 23,
+        "name": "Yesaya",
+        "short_name": "Yes",
+        "slug": "yesaya",
+        "testament": "OT",
+        "chapters": 66,
+        "file": "yesaya.json"
+    },
+    {
+        "id": 24,
+        "name": "Yeremia",
+        "short_name": "Yer",
+        "slug": "yeremia",
+        "testament": "OT",
+        "chapters": 52,
+        "file": "yeremia.json"
+    },
+    {
+        "id": 25,
+        "name": "Ratapan",
+        "short_name": "Rat",
+        "slug": "ratapan",
+        "testament": "OT",
+        "chapters": 5,
+        "file": "ratapan.json"
+    },
+    {
+        "id": 26,
+        "name": "Yehezkiel",
+        "short_name": "Yeh",
+        "slug": "yehezkiel",
+        "testament": "OT",
+        "chapters": 48,
+        "file": "yehezkiel.json"
+    },
+    {
+        "id": 27,
+        "name": "Daniel",
+        "short_name": "Dan",
+        "slug": "daniel",
+        "testament": "OT",
+        "chapters": 12,
+        "file": "daniel.json"
+    },
+    {
+        "id": 28,
+        "name": "Hosea",
+        "short_name": "Hos",
+        "slug": "hosea",
+        "testament": "OT",
+        "chapters": 14,
+        "file": "hosea.json"
+    },
+    {
+        "id": 29,
+        "name": "Yoel",
+        "short_name": "Yl",
+        "slug": "yoel",
+        "testament": "OT",
+        "chapters": 3,
+        "file": "yoel.json"
+    },
+    {
+        "id": 30,
+        "name": "Amos",
+        "short_name": "Am",
+        "slug": "amos",
+        "testament": "OT",
+        "chapters": 9,
+        "file": "amos.json"
+    },
+    {
+        "id": 31,
+        "name": "Obaja",
+        "short_name": "Ob",
+        "slug": "obaja",
+        "testament": "OT",
+        "chapters": 1,
+        "file": "obaja.json"
+    },
+    {
+        "id": 32,
+        "name": "Yunus",
+        "short_name": "Yun",
+        "slug": "yunus",
+        "testament": "OT",
+        "chapters": 4,
+        "file": "yunus.json"
+    },
+    {
+        "id": 33,
+        "name": "Mikha",
+        "short_name": "Mi",
+        "slug": "mikha",
+        "testament": "OT",
+        "chapters": 7,
+        "file": "mikha.json"
+    },
+    {
+        "id": 34,
+        "name": "Nahum",
+        "short_name": "Nah",
+        "slug": "nahum",
+        "testament": "OT",
+        "chapters": 3,
+        "file": "nahum.json"
+    },
+    {
+        "id": 35,
+        "name": "Habakuk",
+        "short_name": "Hab",
+        "slug": "habakuk",
+        "testament": "OT",
+        "chapters": 3,
+        "file": "habakuk.json"
+    },
+    {
+        "id": 36,
+        "name": "Zefanya",
+        "short_name": "Zef",
+        "slug": "zefanya",
+        "testament": "OT",
+        "chapters": 3,
+        "file": "zefanya.json"
+    },
+    {
+        "id": 37,
+        "name": "Hagai",
+        "short_name": "Hag",
+        "slug": "hagai",
+        "testament": "OT",
+        "chapters": 2,
+        "file": "hagai.json"
+    },
+    {
+        "id": 38,
+        "name": "Zakharia",
+        "short_name": "Za",
+        "slug": "zakharia",
+        "testament": "OT",
+        "chapters": 14,
+        "file": "zakharia.json"
+    },
+    {
+        "id": 39,
+        "name": "Maleakhi",
+        "short_name": "Mal",
+        "slug": "maleakhi",
+        "testament": "OT",
+        "chapters": 4,
+        "file": "maleakhi.json"
+    },
+    {
+        "id": 40,
+        "name": "Matius",
+        "short_name": "Mat",
+        "slug": "matius",
+        "testament": "NT",
+        "chapters": 28,
+        "file": "matius.json"
+    },
+    {
+        "id": 41,
+        "name": "Markus",
+        "short_name": "Mrk",
+        "slug": "markus",
+        "testament": "NT",
+        "chapters": 16,
+        "file": "markus.json"
+    },
+    {
+        "id": 42,
+        "name": "Lukas",
+        "short_name": "Luk",
+        "slug": "lukas",
+        "testament": "NT",
+        "chapters": 24,
+        "file": "lukas.json"
+    },
+    {
+        "id": 43,
+        "name": "Yohanes",
+        "short_name": "Yoh",
+        "slug": "yohanes",
+        "testament": "NT",
+        "chapters": 21,
+        "file": "yohanes.json"
+    },
+    {
+        "id": 44,
+        "name": "Kisah Para Rasul",
+        "short_name": "Kis",
+        "slug": "kisah-para-rasul",
+        "testament": "NT",
+        "chapters": 28,
+        "file": "kisah-para-rasul.json"
+    },
+    {
+        "id": 45,
+        "name": "Roma",
+        "short_name": "Rm",
+        "slug": "roma",
+        "testament": "NT",
+        "chapters": 16,
+        "file": "roma.json"
+    },
+    {
+        "id": 46,
+        "name": "1 Korintus",
+        "short_name": "1Kor",
+        "slug": "1-korintus",
+        "testament": "NT",
+        "chapters": 16,
+        "file": "1-korintus.json"
+    },
+    {
+        "id": 47,
+        "name": "2 Korintus",
+        "short_name": "2Kor",
+        "slug": "2-korintus",
+        "testament": "NT",
+        "chapters": 13,
+        "file": "2-korintus.json"
+    },
+    {
+        "id": 48,
+        "name": "Galatia",
+        "short_name": "Gal",
+        "slug": "galatia",
+        "testament": "NT",
+        "chapters": 6,
+        "file": "galatia.json"
+    },
+    {
+        "id": 49,
+        "name": "Efesus",
+        "short_name": "Ef",
+        "slug": "efesus",
+        "testament": "NT",
+        "chapters": 6,
+        "file": "efesus.json"
+    },
+    {
+        "id": 50,
+        "name": "Filipi",
+        "short_name": "Flp",
+        "slug": "filipi",
+        "testament": "NT",
+        "chapters": 4,
+        "file": "filipi.json"
+    },
+    {
+        "id": 51,
+        "name": "Kolose",
+        "short_name": "Kol",
+        "slug": "kolose",
+        "testament": "NT",
+        "chapters": 4,
+        "file": "kolose.json"
+    },
+    {
+        "id": 52,
+        "name": "1 Tesalonika",
+        "short_name": "1Tes",
+        "slug": "1-tesalonika",
+        "testament": "NT",
+        "chapters": 5,
+        "file": "1-tesalonika.json"
+    },
+    {
+        "id": 53,
+        "name": "2 Tesalonika",
+        "short_name": "2Tes",
+        "slug": "2-tesalonika",
+        "testament": "NT",
+        "chapters": 3,
+        "file": "2-tesalonika.json"
+    },
+    {
+        "id": 54,
+        "name": "1 Timotius",
+        "short_name": "1Tim",
+        "slug": "1-timotius",
+        "testament": "NT",
+        "chapters": 6,
+        "file": "1-timotius.json"
+    },
+    {
+        "id": 55,
+        "name": "2 Timotius",
+        "short_name": "2Tim",
+        "slug": "2-timotius",
+        "testament": "NT",
+        "chapters": 4,
+        "file": "2-timotius.json"
+    },
+    {
+        "id": 56,
+        "name": "Titus",
+        "short_name": "Tit",
+        "slug": "titus",
+        "testament": "NT",
+        "chapters": 3,
+        "file": "titus.json"
+    },
+    {
+        "id": 57,
+        "name": "Filemon",
+        "short_name": "Flm",
+        "slug": "filemon",
+        "testament": "NT",
+        "chapters": 1,
+        "file": "filemon.json"
+    },
+    {
+        "id": 58,
+        "name": "Ibrani",
+        "short_name": "Ibr",
+        "slug": "ibrani",
+        "testament": "NT",
+        "chapters": 13,
+        "file": "ibrani.json"
+    },
+    {
+        "id": 59,
+        "name": "Yakobus",
+        "short_name": "Yak",
+        "slug": "yakobus",
+        "testament": "NT",
+        "chapters": 5,
+        "file": "yakobus.json"
+    },
+    {
+        "id": 60,
+        "name": "1 Petrus",
+        "short_name": "1Ptr",
+        "slug": "1-petrus",
+        "testament": "NT",
+        "chapters": 5,
+        "file": "1-petrus.json"
+    },
+    {
+        "id": 61,
+        "name": "2 Petrus",
+        "short_name": "2Ptr",
+        "slug": "2-petrus",
+        "testament": "NT",
+        "chapters": 3,
+        "file": "2-petrus.json"
+    },
+    {
+        "id": 62,
+        "name": "1 Yohanes",
+        "short_name": "1Yoh",
+        "slug": "1-yohanes",
+        "testament": "NT",
+        "chapters": 5,
+        "file": "1-yohanes.json"
+    },
+    {
+        "id": 63,
+        "name": "2 Yohanes",
+        "short_name": "2Yoh",
+        "slug": "2-yohanes",
+        "testament": "NT",
+        "chapters": 1,
+        "file": "2-yohanes.json"
+    },
+    {
+        "id": 64,
+        "name": "3 Yohanes",
+        "short_name": "3Yoh",
+        "slug": "3-yohanes",
+        "testament": "NT",
+        "chapters": 1,
+        "file": "3-yohanes.json"
+    },
+    {
+        "id": 65,
+        "name": "Yudas",
+        "short_name": "Yud",
+        "slug": "yudas",
+        "testament": "NT",
+        "chapters": 1,
+        "file": "yudas.json"
+    },
+    {
+        "id": 66,
+        "name": "Wahyu",
+        "short_name": "Why",
+        "slug": "wahyu",
+        "testament": "NT",
+        "chapters": 22,
+        "file": "wahyu.json"
+    }
+]

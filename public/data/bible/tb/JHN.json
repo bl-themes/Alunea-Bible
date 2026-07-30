@@ -1,0 +1,26 @@
+{
+  "bookId": "JHN",
+  "bookName": "Yohanes",
+  "translation": "tb",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        { "verse": 1, "text": "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah." },
+        { "verse": 2, "text": "Ia pada mulanya bersama-sama dengan Allah." },
+        { "verse": 3, "text": "Segala sesuatu dijadikan oleh Dia dan tanpa Dia tidak ada satupun yang telah jadi dari segala yang telah dijadikan." },
+        { "verse": 4, "text": "Dalam Dia ada hidup dan hidup itu adalah terang manusia." },
+        { "verse": 5, "text": "Terang itu bercahaya di dalam kegelapan dan kegelapan itu tidak menguasainya." },
+        { "verse": 14, "text": "Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran." },
+        { "verse": 16, "text": "Karena dari kepenuhan-Nya kita semua telah menerima kasih karunia demi kasih karunia." }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        { "verse": 16, "text": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal." },
+        { "verse": 17, "text": "Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan supaya dunia diselamatkan oleh Dia." }
+      ]
+    }
+  ]
+}

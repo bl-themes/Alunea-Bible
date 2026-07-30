@@ -1,0 +1,9 @@
+[
+  { "bookId": "GEN", "bookName": "Kejadian", "chapter": 1, "verse": 1, "text": "Pada mulanya Allah menciptakan langit dan bumi." },
+  { "bookId": "GEN", "bookName": "Kejadian", "chapter": 1, "verse": 3, "text": "Berfirmanlah Allah: \"Jadilah terang.\" Lalu terang itu jadi." },
+  { "bookId": "JHN", "bookName": "Yohanes", "chapter": 1, "verse": 1, "text": "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah." },
+  { "bookId": "JHN", "bookName": "Yohanes", "chapter": 1, "verse": 14, "text": "Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya." },
+  { "bookId": "JHN", "bookName": "Yohanes", "chapter": 3, "verse": 16, "text": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal." },
+  { "bookId": "PSA", "bookName": "Mazmur", "chapter": 23, "verse": 1, "text": "TUHAN adalah gembalaku, takkan kekurangan aku." },
+  { "bookId": "PSA", "bookName": "Mazmur", "chapter": 119, "verse": 105, "text": "Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku." }
+]
